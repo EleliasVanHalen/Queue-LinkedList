@@ -1,5 +1,6 @@
 package models;
 
+//este comentario es para commitear
 public class Paciente implements Comparable<Paciente> {
     private String nombre;
     private int prioridad;

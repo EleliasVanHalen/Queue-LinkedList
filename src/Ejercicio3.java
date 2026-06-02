@@ -3,6 +3,7 @@ import models.Paciente;
 
 import javax.swing.JOptionPane;
 
+//igual q este
 public class Ejercicio3 {
     public static void main(String[] args) {
         Hospital emergencias = new Hospital();

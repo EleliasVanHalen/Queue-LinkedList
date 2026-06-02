@@ -2,6 +2,7 @@ package models;
 
 import java.util.PriorityQueue;
 
+//este tmb
 public class Hospital {
     private PriorityQueue<Paciente> salaEspera;
 
